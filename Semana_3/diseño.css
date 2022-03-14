@@ -1,0 +1,312 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.seccion_1{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+    
+}
+
+.seccion_1 div{
+    background-color:white;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    
+}
+
+.link_vacuna{
+    text-decoration: none;
+    color: blue;
+    font-weight: 900;
+    font-size: 25px;
+}
+.link_partes{
+    color: slategrey;
+    font-weight: 700;
+    font-size: 17px
+   
+}
+.boton{
+   background-color: blue; 
+   color: white;
+   border: none;
+   text-align: center;
+   font-size: 16px;
+   padding: 15px 32px;
+   display: inline-block;
+   text-decoration: none;
+   font-size: 16px;
+   border-radius: 8px
+}
+
+
+.seccion_2{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+   
+    
+}
+
+.seccion_2 div{
+    background-color:white;
+    height: 400px;
+    width: 600px;
+    margin: 10px;
+    text-align: center;
+    line-height: 15px;    
+}
+
+
+  #rectangulo{
+
+    border-radius: 25px;
+    padding: 20px; 
+    width: 500px;
+    height: 100px; 
+    border:1px solid slategrey;
+    
+  }
+
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+.titulo{
+    color: rgb(18, 49, 150);
+    font-size: 27px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+
+.parrafo{
+    font-size: 17px;
+    text-align: left;
+    font-weight: 700;
+    color: slategrey;
+    padding: 5px;
+}
+
+
+.columna_1{
+    color: slategrey;
+    font-size: 20px;
+    font-weight: 700;
+    font-weight: 700;
+    text-align: center;
+}
+
+.columna_2{
+    color: rgb(18, 49, 150);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.rectangulo{
+    display: inline-flex;
+    background-color: rgb(95, 38, 187);
+    padding: 10px;
+    border:2px solid black;
+}
+
+
+.seccion_4{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+    
+}
+
+.seccion_4 div{
+    background-color:white;
+    height: 150px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;    
+}
+.punto{
+    color: white;
+}
+
+.seccion_5{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+  
+    
+}
+
+.seccion_5 div{
+    background-color:white;
+    height: 300px;
+    width: 700px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;    
+}
+
+
+.seccion_6{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+   
+    
+}
+
+.seccion_6 div{
+    background-color:white;
+    height: 450px;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;    
+    border:2px solid slategrey;
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+.titulo_2{
+    color: rgb(18, 49, 150);
+    font-size: 23px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.parrafo_2{
+    font-size: 15px;
+    text-align: left;
+    font-weight: 700;
+    color: slategrey;
+    padding: 5px;
+}
+
+.seccion_7{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+   
+    
+}
+
+.seccion_7 div{
+    background-color:white;
+    height: 800px;
+    width: 600px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;    
+   
+}
+
+.lista{
+    font-size: 15px;
+    text-align: left;
+    font-weight: 700;
+    color: rgb(45, 7, 105);
+    padding: 5px;
+}
+
+.seccion_10{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+   
+    
+}
+
+.seccion_10 div{
+    background-color:white;
+    height: 400px;
+    width: 700px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;    
+   
+}
+
+.seccion_8{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+    
+    
+}
+
+.seccion_8 div{
+    background-color:white;
+    height: 500px;
+    width: 625px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;   
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+.cuadro_2{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 10px;
+}
+
+.cuadro_2 div{
+    background-color:white;
+    height: 200px;
+    width: 200px;
+    border:2px solid slategrey;
+}
+
+
+.seccion_9{
+    display: inline-flex;
+    background-color: rgb(175, 200, 226);
+    padding: 10px;
+    
+    
+}
+
+.seccion_9 div{
+    background-color:rgb(175, 200, 226);
+    height: 300px;
+    width: 700px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;   
+}
+
+.intermedia{
+    display: inline-flex;
+    flex-wrap: wrap;
+    background-color: rgb(175, 200, 226);
+    padding: 10px;
+}
+
+.intermedia div{
+    background-color:rgb(175, 200, 226);
+    height: 300px;
+    width: 275px;
+    
+}
+
+.titulo_3{
+    color: rgb(18, 49, 150);
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+}
+ 
+.link_partes_2{
+    color: slategrey;
+    font-weight: 700;
+    font-size: 15px
+}
